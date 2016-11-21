@@ -1,3 +1,7 @@
 /target/
 /src/main/resources
 casemanagement/src/main/java/Main.java
+.checkstyle
+.classpath
+.project
+.settings/
